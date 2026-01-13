@@ -17,6 +17,13 @@ gap: 32px;
   max-width: 384px;
 }
 
+#prifile img {
+  width: 176px;
+  height: 176px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
 #profile h1 {
   font: var(--text-lg);
   color: var(--text-color-primary);
