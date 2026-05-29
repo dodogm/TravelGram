@@ -5,7 +5,6 @@ O objetivo é praticar conceitos de front-end e criar uma interface visual para 
 ### 🎥 Demonstração
 👉 [Visualizar Projeto no GitHub Pages](https://dodogm.github.io/TravelGram/)  
 
-*(adicione aqui uma captura de tela ou GIF mostrando a página em funcionamento)*
 
 ### 🛠️ Tecnologias Utilizadas
 - HTML5
